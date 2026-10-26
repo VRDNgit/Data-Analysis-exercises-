@@ -1,0 +1,15 @@
+matplotlib
+seaborn
+
+numpy
+scipy
+
+pandas
+
+scikit-learn
+
+jupyter
+notebook
+lab
+
+yfinance
